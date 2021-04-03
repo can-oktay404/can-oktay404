@@ -1,4 +1,4 @@
-### Hi there, I'm Karbone - aka [twitter] 👋
+### Hi there, I'm Karbone 👋
 
 [![Support](https://img.shields.io/website?label=Support&style=for-the-badge&url=https://discord.gg/npTEBGREmM)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Karbon3TV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -15,7 +15,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Karbone Spotify Playing" width="350" />](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r)
 
-### Connect with me:
+### Link:
 
 [<img align="left" alt="Support Meute" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][support]
 [<img align="left" alt="Izuyu" width="22px" src="https://cdn.discordapp.com/attachments/825120761165381663/827730606338736218/verified_developer_badge_copie.svg" />][izuyu]
