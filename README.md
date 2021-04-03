@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://karbone-read-8j6lsosio-karbone-dev.vercel.app/api/spotify-playing" alt="Karbone Spotify Playing" width="350" />](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r)
+[<img src="https://karbone-read-8j6lsosio-karbone-dev.vercel.app/api/spotify-playing" alt="Karbone Spotify Playing" width="350" />](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r)
 
 ### Link:
 
