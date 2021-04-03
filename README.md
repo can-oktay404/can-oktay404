@@ -18,7 +18,7 @@
 ### Link:
 
 [<img align="left" alt="Support Meute" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][support]
-[<img align="left" alt="Izuyu" width="22px" src="https://cdn.discordapp.com/attachments/825120761165381663/827730606338736218/verified_developer_badge_copie.svg" />][izuyu]
+[<img align="left" alt="Izuyu" width="22px" src="https://cdn.discordapp.com/attachments/718148873121562737/827748663303864370/Sans-titre-1.svg" />][izuyu]
 [<img align="left" alt="Karbone | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
