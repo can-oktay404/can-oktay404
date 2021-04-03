@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="spotify-rich-presence-2dgfu6soi-karbone-dev.vercel.app/api/spotify-playing" alt="KarboneDev Spotify Playing" width="350" />](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Link:
 
