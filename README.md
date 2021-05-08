@@ -7,8 +7,9 @@
 
 - 🔭 I just watched you look at my profile
 - 🌱 I’m currently listening everything
+- 🛴 Izuyu Bot Verified by Discord
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Izuyu Bot Verified by Discord
+- 🥅 2021 Goals: HediyeBot Verified By Discord
 - ⚡ Fun fact: I love playing phasmophobia with my friends
 
 ### Spotify Playing 🎧
