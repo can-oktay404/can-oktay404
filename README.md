@@ -43,7 +43,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Karbone GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karbone-DEV)]"/>
+  <img align="left" alt="Karbone GitHub Stats" src=""/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karbone-DEV&show_icons=true&theme=radical)
+
 
 </details>
 
