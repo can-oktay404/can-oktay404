@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Karbone GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=Karbone-DEV&show_icons=true&hide_border=true" />
+  <img align="left" alt="Karbone GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karbone-DEV)](https://github.com/anuraghazra/github-readme-stats)" />
 
 </details>
 
