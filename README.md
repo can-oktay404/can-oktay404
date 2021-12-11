@@ -2,6 +2,7 @@
 
 [![Support](https://img.shields.io/website?label=Support&style=for-the-badge&url=https://discord.gg/npTEBGREmM)](https://discord.gg/npTEBGREmM)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Karbon3TV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Karbon3TV)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r?si=ab52fd0be93f4b78)
 
 ## I'm a Developer and I am the founder of the Meute team
 
