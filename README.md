@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Karbon3TV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Karbon3TV)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r?si=ab52fd0be93f4b78)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Karbonereis)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/karbonekral)
 
 ## I'm a Developer and I am the founder of the Meute team
 
