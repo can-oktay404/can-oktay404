@@ -1,5 +1,7 @@
 ### Hi there, I'm Karbone 👋
 
+![View](https://komarev.com/ghpvc/?username=karbone-dev)
+
 [![Support](https://img.shields.io/website?label=Support&style=for-the-badge&url=https://discord.gg/npTEBGREmM)](https://discord.gg/4stAer8JJH)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wbaftxfvwzh37p9eujc3s2m2r?si=ab52fd0be93f4b78)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Karbonereis)
