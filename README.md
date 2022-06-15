@@ -53,5 +53,4 @@
 </details>
 
 [izuyu]: https://discord.com/oauth2/authorize?client_id=718123843805511750&scope=bot&permissions=3148800
-[support]: https://discord.gg/npTEBGREmM
-[twitter]: https://twitter.com/Karbon3TV
+[twitter]: https://twitter.com/KarboneChad
