@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/312973595141734400)](https://discord.com/users/312973595141734400)
-
 ### Hi there, I'm Karbone 👋
 
 ![View](https://komarev.com/ghpvc/?username=karbone-dev)
@@ -17,6 +15,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: HediyeBot Verified By Discord
 - ⚡ Fun fact: I love playing phasmophobia with my friends
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/312973595141734400)](https://discord.com/users/312973595141734400)
 
 ### Spotify Playing 🎧
 
