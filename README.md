@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/312973595141734400)](https://discord.com/users/312973595141734400)
+
 ### Hi there, I'm Karbone 👋
 
 ![View](https://komarev.com/ghpvc/?username=karbone-dev)
