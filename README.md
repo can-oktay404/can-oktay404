@@ -16,7 +16,7 @@
 - 🥅 2021 Goals: HediyeBot Verified By Discord
 - ⚡ Fun fact: I love playing phasmophobia with my friends
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/312973595141734400)](https://discord.com/users/312973595141734400)
+[![Discord Presence](https://lanyard.cnrad.dev/api/853646350256308244)](https://discord.com/users/853646350256308244)
 
 ### Spotify Playing 🎧
 
