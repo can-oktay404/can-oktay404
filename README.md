@@ -13,7 +13,7 @@
 - 🌱 I’m currently listening everything
 - 🛴 Izuyu Bot Verified by Discord
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: HediyeBot Verified By Discord
+- 🥅 2023 Goals: Lofii Bot Verified By Discord
 - ⚡ Fun fact: I love playing phasmophobia with my friends
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/853646350256308244)](https://discord.com/users/853646350256308244)
@@ -21,11 +21,6 @@
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true)
-
-### Link:
-
-[<img align="left" alt="Izuyu" width="22px" src="https://cdn.discordapp.com/attachments/718148873121562737/827748663303864370/Sans-titre-1.svg" />][izuyu]
-[<img align="left" alt="Karbone | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
