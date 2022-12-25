@@ -2,7 +2,7 @@
 
 ![View](https://komarev.com/ghpvc/?username=karbone-dev)
 
-[![Support](https://img.shields.io/website?label=Support&style=for-the-badge&url=https://discord.gg/npTEBGREmM)](https://discord.gg/4stAer8JJH)
+[![Support](https://img.shields.io/website?label=Support&style=for-the-badge&url=https://discord.gg/Jn8r5QUwWU)](https://discord.gg/Jn8r5QUwWU)
 [![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KarboneChad)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Karbonereis)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/karbonekral)
