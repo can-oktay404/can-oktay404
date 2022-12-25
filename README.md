@@ -4,6 +4,8 @@
 
 ![View](https://komarev.com/ghpvc/?username=karbone-dev)
 
+<p><a href="https://ko-fi.com/karbone"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="140" alt="karbone" /></a></p><br><br>
+
 [![Twitter](https://img.shields.io/twitter/follow/karbonechad?logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/karbonechad?logo=twitter&style=for-the-badge)
 
 - 🔭 I just watched you look at my profile
@@ -14,11 +16,18 @@
 - ⚡ Fun fact: I love playing phasmophobia with my friends
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/853646350256308244)](https://discord.com/users/853646350256308244)
+<p><a href="https://discord.com/users/853646350256308244"> <img align="left" src="https://lanyard.cnrad.dev/api/853646350256308244" height="210" width="410" alt="user" /></a></p>
 
-### Spotify Playing:
+<p><a href="https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true"> <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=compact&show_offline=false&background_color=121212" height="400" width="320" alt="user" /></a></p><br><br>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Languages and Tools:
 
