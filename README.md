@@ -49,9 +49,3 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Karbone GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Karbone-DEV&show_icons=true&theme=midnight-purple"/>
-
-
-</details>
-
-[izuyu]: https://discord.com/oauth2/authorize?client_id=718123843805511750&scope=bot&permissions=3148800
-[twitter]: https://twitter.com/KarboneChad
