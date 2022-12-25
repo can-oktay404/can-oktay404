@@ -1,13 +1,10 @@
-### Hi there, I'm Karbone 👋
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+<h1 align="center"> Hi there, I'm Karbone 👋 </h1>
 
 ![View](https://komarev.com/ghpvc/?username=karbone-dev)
 
-[![Support](https://img.shields.io/website?label=Support&style=for-the-badge&url=https://discord.gg/Jn8r5QUwWU)](https://discord.gg/Jn8r5QUwWU)
-[![Twitter](https://img.shields.io/badge/Twitter-1A8CD8?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KarboneChad)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Karbonereis)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/karbonekral)
-
-## I'm a Developer and I am the founder of the Meute team
+[![Twitter](https://img.shields.io/twitter/follow/karbonechad?logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/follow/karbonechad?logo=twitter&style=for-the-badge)
 
 - 🔭 I just watched you look at my profile
 - 🌱 I’m currently listening everything
@@ -18,11 +15,9 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/853646350256308244)](https://discord.com/users/853646350256308244)
 
-### Spotify Playing 🎧
+### Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true)
-
-<br />
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true)
 
 ### Languages and Tools:
 
@@ -35,8 +30,6 @@
 
 <br />
 <br />
-
-
 
 </details>
 
