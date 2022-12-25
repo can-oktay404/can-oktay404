@@ -13,9 +13,10 @@
 - 🥅 2023 Goals: Lofii Bot Verified By Discord
 - ⚡ Fun fact: I love playing phasmophobia with my friends
 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/853646350256308244)](https://discord.com/users/853646350256308244)
 
-### Spotify Playing
+### Spotify Playing:
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true)
 
