@@ -11,9 +11,9 @@
 
 - 🔭 I just watched you look at my profile
 - 🌱 I’m currently listening everything
-- 🛴 Izuyu Bot Verified by Discord
+- 🛴 Lofii Bot Verified by Discord
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Lofii Bot Verified By Discord
+- 🥅 2023 Goals: Omen Verified By Discord
 - ⚡ Fun fact: I love playing phasmophobia with my friends
 
 
