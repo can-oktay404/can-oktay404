@@ -8,12 +8,10 @@
 
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KarboneChad)
 
-- 🔭 I just watched you look at my profile
-- 🌱 I’m currently listening everything
-- 🛴 Lofii Bot Verified by Discord
+- 🦜 I just watched you look at my profile
+- 🔧 3 Verified Discord Bot
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Omen Verified By Discord
-- ⚡ Fun fact: I love playing phasmophobia with my friends
+- 🥅 2025 Goals: Pass my baccalaureate
 
 <br>
 <p><a href="https://discord.com/users/853646350256308244"> <img align="left" src="https://lanyard.cnrad.dev/api/853646350256308244" height="210" width="410" alt="user" /></a></p>
