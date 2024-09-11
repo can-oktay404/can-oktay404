@@ -4,7 +4,6 @@
 
 ![View](https://komarev.com/ghpvc/?username=karbonedev)
 
-<p><a href="https://ko-fi.com/karbone"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="36" width="125" alt="karbone" /></a></p><br><br>
 
 
 [![Twitter](https://img.shields.io/twitter/follow/karbonechad?logo=twitter&style=for-the-badge)](https://twitter.com/KarboneChad)
