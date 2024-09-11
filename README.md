@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://karbone-dev.github.io/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://karbonedev.github.io/)
 
 <h1 align="center"> Hi there, I'm Karbone 👋 </h1>
 
-![View](https://komarev.com/ghpvc/?username=karbone-dev)
+![View](https://komarev.com/ghpvc/?username=karbonedev)
 
 <p><a href="https://ko-fi.com/karbone"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="36" width="125" alt="karbone" /></a></p><br><br>
 
@@ -47,4 +47,4 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Karbone GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Karbone-DEV&show_icons=true&theme=midnight-purple"/>
+  <img align="left" alt="Karbone GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karbonedev&show_icons=true&theme=midnight-purple"/>
