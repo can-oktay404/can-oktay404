@@ -19,7 +19,6 @@
 
 <p><a href="https://discord.com/users/853646350256308244"> <img align="left" src="https://lanyard.cnrad.dev/api/853646350256308244" height="210" width="410" alt="user" /></a></p>
 
-<p><a href="https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&redirect=true"> <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=wbaftxfvwzh37p9eujc3s2m2r&cover_image=true&theme=compact&show_offline=false&background_color=121212" height="400" width="320" alt="user" /></a></p><br><br>
 
 <br>
 <br>
