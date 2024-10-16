@@ -39,6 +39,27 @@
 
 <br /> <br />
 
+```rs
+#include <stdio.h>
+
+struct User {
+    char name[50];
+    int age;
+    char role[100];
+};
+
+void say_hello(struct User user) {
+    printf("Hi, I'm %s!\n", user.name);
+}
+
+int main() {
+    struct User can = {"Can", 17, "Programmer"};
+    say_hello(can);  // Hi, I'm Can!
+    return 0;
+}
+```
+
+
 </details>
 
 <details>
