@@ -14,7 +14,7 @@
 - 🥅 2025 Goals: Pass my baccalaureate
 
 <br>
-<p><a href="https://discord.com/users/853646350256308244"> <img align="left" src="https://lanyard.cnrad.dev/api/853646350256308244" height="210" width="410" alt="user" /></a></p>
+<a href="https://discord.com/users/853646350256308244"><img src="https://lanyard.cnrad.dev/api/853646350256308244?bg=0D1117" /></a>
 
 
 <br>
