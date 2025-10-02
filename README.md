@@ -11,7 +11,7 @@
 - 🦜 I just watched you look at my profile
 - 🔧 3 Verified Discord Bot
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Pass my baccalaureate
+- 🥅 2027 Goals: Pass
 
 <br>
 <a href="https://discord.com/users/853646350256308244"><img src="https://lanyard.cnrad.dev/api/853646350256308244?bg=0D1117" /></a>
@@ -47,7 +47,7 @@ void say_hello(struct User user) {
 }
 
 int main() {
-    struct User can = {"Can", 17, "Programmer"};
+    struct User can = {"Can", 18, "Programmer"};
     say_hello(can);  // Hi, I'm Can!
     return 0;
 }
