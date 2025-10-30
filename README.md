@@ -59,4 +59,4 @@ int main() {
 <details>
   <summary>:zap: GitHub Stats</summary>
 <br>
-  <img align="left" alt="Karbone GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karbonedev&show_icons=true&theme=midnight-purple"/>
+  <img align="left" alt="Karbone GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=can-oktay404&show_icons=true&theme=midnight-purple"/>
