@@ -6,8 +6,6 @@
 
 
 
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KarboneChad)
-
 - 🦜 I just watched you look at my profile
 - 🔧 3 Verified Discord Bot
 - 👯 I’m looking to collaborate with other content creators
